@@ -1,3 +1,9 @@
+# Setup
+
+This code is for a reproduction study of "G-Mixup: Graph Data Augmentation for Graph Classification" [1]. The code supplements the code already provided by the original authors at: [G-Mixup Github](https://github.com/ahxt/g-mixup).
+
+[1] Han, X., Jiang, Z., Liu, N. &amp; Hu, X.. (2022). "G-Mixup: Graph Data Augmentation for Graph Classification". Proceedings of the 39th International Conference on Machine Learning, in Proceedings of Machine Learning Research 162:8230-8248.
+
 # Experiments and Scripts
 
 ## Result 2 (IMDB-B and REDDIT-B)

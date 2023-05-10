@@ -41,7 +41,7 @@ If True, logs certain checkpoints in the code and prints the test, train, val lo
 
 ### batch_size
 
-The batch size for the GNN.
+The batch size for the GNN. We use batch_size = 128.
 
 ### num_hidden
 

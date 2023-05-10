@@ -69,4 +69,4 @@ Add this number to the median number of nodes in the training set to get the gra
 
 ### lam_range
 
-The range from which mixup ratios will be randomly chosen. We use [0.1, 0.2] by default, and lam_range = $[0, 0], [0.001, 0.001], [0.01, 0.01], [0.1, 0.1] [0.5, 0.5]$ for the hyperparameter search.  
+The range from which mixup ratios will be randomly chosen. We use [0.1, 0.2] by default, and lam_range = $[0, 0], [0.001, 0.001], [0.01, 0.01], [0.1, 0.1], [0.5, 0.5]$ for the hyperparameter search.  

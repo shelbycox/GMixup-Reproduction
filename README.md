@@ -1,8 +1,13 @@
 # Setup
 
-This code is for a reproduction study of "G-Mixup: Graph Data Augmentation for Graph Classification" [1]. The code supplements the code already provided by the original authors at: [G-Mixup Github](https://github.com/ahxt/g-mixup).
+This code is for a reproduction study of "G-Mixup: Graph Data Augmentation for Graph Classification" [1]. The code supplements the code already provided by the original authors here: [G-Mixup Github](https://github.com/ahxt/g-mixup). Follow these steps to setup the reproduction experiments.
 
-[1] Han, X., Jiang, Z., Liu, N. &amp; Hu, X.. (2022). "G-Mixup: Graph Data Augmentation for Graph Classification". Proceedings of the 39th International Conference on Machine Learning, in Proceedings of Machine Learning Research 162:8230-8248.
+1) Follow the instructions at [G-Mixup Github](https://github.com/ahxt/g-mixup) to setup the environment, and download the original G-Mixup files.
+2) Download the files from this repository.
+3) Add model_gcn.py to the src folder of the original G-Mixup repository, and replace the gmixup.py file in the original G-Mixup repository with the gmixup.py file in this repository.
+4) Run the scripts provided in this repository.
+
+[1] Han, X., Jiang, Z., Liu, N. &amp; Hu, X.. (2022). "G-Mixup: Graph Data Augmentation for Graph Classification". Proceedings of the 39th International Conference on Machine Learning, in Proceedings of Machine Learning Research 162:8230-8248. Available at: [https://proceedings.mlr.press/v162/han22c.html](https://proceedings.mlr.press/v162/han22c.html).
 
 # Experiments and Scripts
 
